@@ -1,5 +1,10 @@
 public class game {
     int std_id;
     String name;
+    float grade;
     float cgpa;
 }
+
+    
+
+
