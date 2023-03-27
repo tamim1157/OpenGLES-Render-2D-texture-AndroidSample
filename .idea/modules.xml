@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ArCore2DRenderingApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ArCore2DRenderingApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ArCore2DRenderingApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
